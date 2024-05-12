@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Version Check</title>
+</head>
+<body>
+    <script>
+        var currentVersion = "0.0.1";
+        
+        if (currentVersion !== "0.0.1") {
+            alert("ERROR: User not on the right version. Please update the app via GitHub.");
+            window.location.href = "https://github.com/yourapp";
+        }
+    </script>
+</body>
+</html>
