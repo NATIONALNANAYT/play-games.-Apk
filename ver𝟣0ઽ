@@ -9,7 +9,7 @@
         
         if (currentVersion !== "0.0.1") {
             alert("ERROR: User not on the right version. Please update the app via GitHub.");
-            window.location.href = "https://github.com/yourapp";
+            window.location.href = "https://github.com/NATIONALNANAYT/play-games.-Apk";
         }
     </script>
 </body>
